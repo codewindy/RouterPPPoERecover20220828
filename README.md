@@ -7,7 +7,6 @@
 
 
 ```bash
-#git clone https://github.com/LuckyC4t/pppoe-hijack-go.git
 git clone https://github.com/codewindy/RouterPPPoERecover20220828
 cd pppoe-hijack-go
 go build cmd/pppoe-hijack-go.go
@@ -35,3 +34,4 @@ go build cmd/pppoe-hijack-go.go
 * https://www.topgoer.com/
 * https://go101.org/article/101.html
 * https://www.screentogif.com/
+* https://github.com/LuckyC4t/pppoe-hijack-go.git
