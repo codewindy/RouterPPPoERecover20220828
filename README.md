@@ -1,7 +1,7 @@
 ## 介绍
 采用fyne开发GUI程序实现PPPoE账号密码恢复功能实现
 * 视频教程视频链接 https://www.douyin.com/video/7136831314338073867
-![img](https://user-images.githubusercontent.com/15072465/187062440-88f4dfc1-3439-408f-8c50-1b50aa30fb50.png)
+* ![img](https://user-images.githubusercontent.com/15072465/187062440-88f4dfc1-3439-408f-8c50-1b50aa30fb50.png)
 ## 仿造华为路由器实现的功能
 * ![image](https://user-images.githubusercontent.com/15072465/187063603-c1958c8d-0d64-4d9a-a758-69ecee4c991e.png)
 * java 方式实现 https://github.com/codewindy/Mikrotik-Phicomm-Backup
