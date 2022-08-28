@@ -3,7 +3,7 @@
 
 
 ## 用法
-直接执行pppoe-hijack-go.exe 文件即可，恢复的账号密码会自动弹出
+直接下载执行[pppoe-hijack-go.exe](https://github.com/codewindy/RouterPPPoERecover20220828/releases/download/v0.1/pppoe-hijack-go.exe) 文件即可，恢复的账号密码会自动弹出
 
 
 ```bash
